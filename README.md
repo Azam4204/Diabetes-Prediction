@@ -4,8 +4,8 @@
         this disease or control the disease(For people who already have the disease).
 
   <u>Task:</u>
-    **1. Prepare the data-set using several methods to train the data. <br />
-    **2. Build a model which can give high accuracy of predicting the disease. <br />
+    **1. Prepare the data-set using several methods to train the data.** <br />
+    **2. Build a model which can give high accuracy of predicting the disease.** <br />
 
 
 
